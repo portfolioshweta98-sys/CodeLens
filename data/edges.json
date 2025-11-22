@@ -1,0 +1,5 @@
+[
+  {"source": "moduleA", "target": "moduleB", "type": "depends_on"},
+  {"source": "moduleA", "target": "moduleC", "type": "depends_on"},
+  {"source": "moduleB", "target": "moduleC", "type": "depends_on"}
+]

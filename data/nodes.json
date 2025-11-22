@@ -1,0 +1,5 @@
+[
+  {"_id": "moduleA", "name": "moduleA", "type": "file", "path": "src/moduleA.js"},
+  {"_id": "moduleB", "name": "moduleB", "type": "file", "path": "src/moduleB.js"},
+  {"_id": "moduleC", "name": "moduleC", "type": "file", "path": "src/moduleC.js"}
+]
